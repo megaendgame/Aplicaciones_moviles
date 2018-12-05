@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "268509072237",
+    "firebase_url": "https://splashfirebase.firebaseio.com",
+    "project_id": "splashfirebase",
+    "storage_bucket": "splashfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268509072237:android:d8f5541c2cddf70c",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.splashfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268509072237-4mfdqreuqr202uuf7elgc973hocjv57k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.splashfirebase",
+            "certificate_hash": "1a8b81c1319bb62c1e1a987a6ff3e71b79429ad4"
+          }
+        },
+        {
+          "client_id": "268509072237-1vp9lqeo0cns2rmnotknrpotned5hu5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2MBKVdM7YPJjvyhvUaBk1E1hHaDA5Mmg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268509072237-1vp9lqeo0cns2rmnotknrpotned5hu5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
